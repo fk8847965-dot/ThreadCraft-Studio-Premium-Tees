@@ -1,4 +1,5 @@
-# ThreadCraft-Studio-Premium-Tees
+# ThreadCraft-Studio-Premium-Tees<br><br>
+<h1>Author:- Farhan Khan</h1>
 🧵 ThreadCraft Studio — Premium T-Shirt Brand Webpage 👕
 
 ✨ ThreadCraft Studio is a beautifully crafted, modern & fully responsive fashion brand landing page built using only HTML + CSS.
